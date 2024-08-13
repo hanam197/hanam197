@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend & backend developer from Vietnam</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> hanamc4a@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
